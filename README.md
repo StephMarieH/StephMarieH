@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @StephMarieH
-- 👀 I’m interested in Photography, visual arts, yoga and cycling.
+- 👋 Hi, I’m Steph.
 - 🌱 I’m currently learning Python and SQL.
+- 👀 My hobbies are photography, visual arts, yoga and cycling.
 - 💞️ I’m looking to collaborate on projects, let me know if you have an idea!
 - 📫 How to reach me stephaniemariehornby@gmail.com
 
